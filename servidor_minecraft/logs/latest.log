@@ -133,3 +133,9 @@
 [12:29:45] [Server thread/INFO]: xUraB_[/127.189.109.60:48497] logged in with entity id 2382 at (-6844.214403510966, 67.0, -2980.2865864377513)
 [12:29:45] [Server thread/INFO]: Player [xUraB_] joined.
 [12:29:45] [Server thread/INFO]: xUraB_ joined the game
+[12:40:30] [Server thread/WARN]: xUraB_ moved wrongly!
+[12:41:45] [Server thread/INFO]: [xUraB_: Set own game mode to Creative Mode]
+[12:41:47] [Server thread/INFO]: [xUraB_: Set own game mode to Survival Mode]
+[12:41:52] [Server thread/INFO]: [xUraB_: Set own game mode to Creative Mode]
+[12:42:57] [Server thread/INFO]: [xUraB_: Set the weather to rain]
+[12:43:15] [Server thread/INFO]: [xUraB_: Set the weather to clear]
